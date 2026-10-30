@@ -1,4 +1,3 @@
-
 while True:
     print("\n===== PYTHON CALCULATOR =====")
     print("1. Addition (+)")
