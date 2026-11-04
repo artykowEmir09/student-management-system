@@ -3,7 +3,6 @@ from datetime import datetime
 
 FILENAME = "expenses.csv"
 
-# Create file if it doesn't exist
 try:
     open(FILENAME, "x").close()
 except FileExistsError:
