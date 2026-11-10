@@ -1,0 +1,40 @@
+body {
+    background-color: #F5F5F5;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: #003366;
+}
+
+ul {
+    margin-top: 15px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    color: #0066cc;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+}
